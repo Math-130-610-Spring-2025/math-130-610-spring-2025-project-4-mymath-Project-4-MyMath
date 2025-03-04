@@ -25,8 +25,8 @@ Design a class named `MyMath`. The class must include the following static metho
 | `double` | `subtract(double a, double b)` | Returns the result of subtracting the second integer from the first. |
 | `double` | `multiply(double a, double b)` | Returns the product of two integers. |
 | `double` | `divide(double a, double b)` | Returns the result of dividing the first integer by the second. The divisor `b` cannot be zero. |
-| `double` | `max(double a, double b)` | Returns the greater of two integers. |
-| `double` | `min(double a, double b)` | Returns the smaller of two integers. |
+| `double` | `max(double a, double b)` | Returns the greater of two doubles. |
+| `double` | `min(double a, double b)` | Returns the smaller of two doubles. |
 | `boolean` | `isEven(int a)` | Returns `true` if the integer is even, `false` otherwise. |
 | `boolean` | `isOdd(int a)` | Returns `true` if the integer is odd, `false` otherwise. |
 
